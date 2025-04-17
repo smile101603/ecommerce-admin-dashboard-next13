@@ -3,8 +3,6 @@
 
 This is the repository for a fully functioning [Admin Dashboard & CMS](https://ecommerce-admin-dashboard-next13-seven.vercel.app/).
 
-Find the Github repository for the E-Commerce store here: https://github.com/demitraps/ecommerce-store-next13
-
 ## Features
 
 - Create Multiple Stores
@@ -110,7 +108,7 @@ Light mode:
 ### Cloning the repository
 
 ```bash
-  git clone https://github.com/demitraps/ecommerce-admin-dashboard-next13.git
+  git clone https://github.com/smile101603/ecommerce-admin-dashboard-next13.git
 ```
 
 ### Connect to PlanetScale and Push Prisma
