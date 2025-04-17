@@ -1,8 +1,6 @@
 
 # Full Stack Next.js 13 Admin Dashboard & CMS for E-Commerce Store | Next.js 13 App Router, React, Tailwind, Prisma, MySQL
 
-This is the repository for a fully functioning [Admin Dashboard & CMS](https://ecommerce-admin-dashboard-next13-seven.vercel.app/).
-
 ## Features
 
 - Create Multiple Stores
